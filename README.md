@@ -1,2 +1,4 @@
 # COMP-2210
-COMP 2210 – Fundamentals of Computing II
+COMP-2210 Projects 
+
+Fundamentals of Computing II
